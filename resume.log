@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.1.13)  18 AUG 2015 10:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.1.13)  18 AUG 2015 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -67,4 +67,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  21i,8n,19p,300b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.dvi (2 pages, 8396 bytes).
+Output written on resume.dvi (2 pages, 8400 bytes).
