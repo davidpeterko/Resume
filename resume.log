@@ -1,32 +1,29 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  21 AUG 2015 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.12)  12 JUL 2018 23:16
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**resume.tex
-(./resume.tex
-LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+**./resume.tex
+(resume.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (./shading.sty
+) (shading.sty
 \graybox=\box26
 \xgrayspace=\dimen103
 \ygrayspace=\dimen104
-) (./resume.aux)
+) (resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
@@ -48,22 +45,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 53.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 65.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+
+("C:\Users\david\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
 
 [1
 
-] (./resume.aux) ) 
-Here is how much of TeX's memory you used:
- 269 strings out of 493118
- 3027 string characters out of 6135459
- 59462 words of memory out of 5000000
- 3802 multiletter control sequences out of 15000+600000
- 7945 words of font info for 28 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 21i,8n,19p,300b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.dvi (1 page, 5236 bytes).
+Non-PDF special ignored!
+<special> ! TeXDict begin /sharpbox{newpath xmin ymin moveto xmin ymax line...
+{C:/Users/david/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+Non-PDF special ignored!
+<special> "gsave newpath 0 0 moveto 0 1 copy /xmin exch store 349524 -65536...
+Non-PDF special ignored!
+<special> "gsave newpath 0 0 moveto 0 1 copy /xmin exch store 349524 -65536...
+Non-PDF special ignored!
+<special> "gsave newpath 0 0 moveto 0 1 copy /xmin exch store 349524 -65536...
+] (resume.aux) ) 
+Here is how much of TeX's memory you used:
+ 273 strings out of 492973
+ 3243 string characters out of 3126692
+ 67416 words of memory out of 3000000
+ 4213 multiletter control sequences out of 15000+200000
+ 7945 words of font info for 28 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 21i,8n,19p,303b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/david/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/david/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/davi
+d/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+C:/Users/david/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmti10.pfb>
+Output written on resume.pdf (1 page, 87025 bytes).
+PDF statistics:
+ 30 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
